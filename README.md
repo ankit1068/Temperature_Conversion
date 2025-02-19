@@ -50,10 +50,7 @@ temperature-converter/
 │── app.py          # Flask backend
 │── templates/
 │   ├── index.html  # Frontend UI (HTML + CSS)
-│── static/
-│   ├── style.css   # Styling for the UI
-│── README.md       # Project documentation
-│── requirements.txt # Dependencies
+
 ```
 
 ---
@@ -85,5 +82,12 @@ Feel free to fork this repository and submit a pull request if you have any impr
 
 ---
 
-## **📧 Contact**  
-For any questions, reach out to me at **your-email@example.com**.  
+## Contact 
+
+For any questions or feedback, feel free to contact:
+
+Ankit kumar
+
+Email: your-ankitrajj1068@gmail.com
+
+GitHub: ankit1068
